@@ -1,0 +1,3 @@
+[submodule "teldrive-ui"]
+	path = teldrive-ui
+	url = https://github.com/divyam234/teldrive-ui.git
